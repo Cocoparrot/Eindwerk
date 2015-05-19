@@ -9,6 +9,6 @@ namespace E_Loket.BLL
     {
         public int Id { get; set; }
         public string OpleidingVariant { get; set; }
-        public OpleidingId {get; set}
+        public int OpleidingID {get; set;}
     }
 }

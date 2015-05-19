@@ -71,6 +71,10 @@
     <Compile Include="..\..\Document.cs">
       <Link>BLL\Document.cs</Link>
     </Compile>
+    <Compile Include="BLL\DocumentType.cs" />
+    <Compile Include="BLL\Medewerkers.cs" />
+    <Compile Include="BLL\Opleiding.cs" />
+    <Compile Include="BLL\OpleidingVariant.cs" />
     <Compile Include="DocumentDB.cs" />
     <Compile Include="DocumentType.cs" />
     <Compile Include="IService1.cs" />
